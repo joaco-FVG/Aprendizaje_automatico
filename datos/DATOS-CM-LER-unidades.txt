@@ -1,0 +1,110 @@
+La base de datos constan de las siguientes variables, con sus respectivos valores máximos (Hi) y mínimos (Lo).
+
+Date: Dia de adquisición de datos.
+Wind Dir: Dirección del viento en º.
+Wind Spd: Velocidad del viento en km/hr.
+Wind Gust: Ráfaga de viento en km/hr.
+Hum In: Humedad relativa interna en %.
+Humidity: Humedad relativa externa en %.
+Temp In: Temperatura interior en ºC.
+Temp Out: Temperatura exterior en ºC.
+Raw Barom: Presión barométrica en bruto en hPa.
+Tot Rain: Precipitación acumulada medida en mm.
+Temp Ch 1: Temperatura en sensor 1 en ºC.
+Hum Ch 1: Humedad en sensor 1 en %.
+Temp Ch 2: Temperatura en sensor 2 en ºC.
+Hum Ch 2: Humedad en sensor 2 en %.
+Temp Ch 3: Temperatura en sensor 3 en ºC.
+Hum Ch 3: Humedad en sensor 3 en %.
+ET: Evapotranspiración en mm.
+UV: Índice UV adimensiona.
+Solar: Radiación Solar en W/sqm.
+Wind Chill: Sensación Térmica en ºC.
+Heat Ix In: Índice de Calor interno en ºC.
+Heat Index: Índice de Calor exterior en ºC.
+Dew Point: Temperatura de punto de rocío en ºC.
+Barom SL: Presión barométrica corregida al nivel del mar en hPa.
+Press Alt: Altitud de presión en metros.
+Cloud Base: Base de las nubes en metros.
+Dens Alt: Altitud en densidad en metros.
+Virt Temp: Temperatura virtual en ºC.
+Vapor Press: Presión de vapor en hPa.
+Wind Dir R: Tasa de cambio de Dirección de viento en º/hr.
+Wind Spd R: Tasa de cambio de Velocidad del viento en bruto en mps/hr.
+Wind Gust R: Tasa de cambio de Ráfaga del viento en mps/hr.
+Hum In R: Tasa de cambio de Humedad relativa interna en bruto en %/hr.
+Humidity R: Tasa de cambio de Humedad relativa externa en %/hr.
+Temp In R: Tasa de cambio de Temperatura interior en ºC/hr.
+Temp Out R: Tasa de cambio de Temperatura exterior en ºC/hr.
+Barom Rate: Tasa de cambio de Presión barométrica en mm/hr.
+Tot Rain R: Tasa de cambio de Precipitación acumulada medida en mm/hr.
+Temp Ch 1 R: Tasa de cambio de Temperatura en sensor 1 en ºC/hr.
+Hum Ch 1 R: Tasa de cambio de Humedad en sensor 1 en %/hr.
+Temp Ch 2 R: Tasa de cambio de Temperatura en sensor 2 en ºC/hr.
+Hum Ch 2 R: Tasa de cambio de Humedad en sensor 2 en %/hr.
+Temp Ch 3 R: Tasa de cambio de Temperatura en sensor 3 en ºC/hr.
+Hum Ch 3 R: Tasa de cambio de Humedad en sensor 3 en %/hr.
+EV Rate: Tasa de evaporación en mm/hr.
+UV Rate: Tasa de cambio de índice UV.
+Solar Rate: Tasa de cambio de radiación solar en W/sqm/hr.
+WindCh R: Tasa de cambio de sensación térmica en ºC/hr.
+HeatIx In R: Tasa de cambio de Índice de Calor interno en ºC/hr.
+HeatIx R: Tasa de cambio de Índice de Calor exterior en ºC/hr.
+Dew Pt R: Tasa de cambio de Temperatura de punto de rocío en ºC/hr.
+SL Barom R:  Tasa de cambio de Presión barométrica corregida al nivel del mar en mm/hr.
+Wind Dir A: Dirección del viento promedio en º.
+Wind Spd A: Velocidad del viento promedio en km/hr.
+Wind Gust A: Ráfaga de viento promedio en km/hr.
+Hum In A: Humedad relativa interna promedio en %.
+Humidity A: Humedad relativa externa promedio en %.
+Temp In A: Temperatura interior promedio en ºC.
+Temp Out A: Temperatura exterior promedio en ºC.
+Barom A: Presión barométrica promedio en hPa.
+Tot Rain A: Precipitación acumulada promedio en mm.
+Temp Ch 1 A: Temperatura en sensor 1 promedio en ºC.
+Hum Ch 1 A: Humedad en sensor 1 promedio en %.
+Temp Ch 2 A: Temperatura en sensor 2 promedio en ºC.
+Hum Ch 2 A: Humedad en sensor 2 promedio en %.
+Temp Ch 3 A: Temperatura en sensor 3 promedio en ºC.
+Hum Ch 3 A: Humedad en sensor 3 promedio en %.
+EV Avg: Evaporación promedio en mm.
+UV Avg: Índice UV en promedio en W/sqm.
+Solar Avg: Radiación solar promedio en W/sqm.
+WindCh A: Sensación térmica promedio en ºC.
+HeatIx In A: Índice de Calor interno promedio en ºC.
+HeatIx A: Índice de Calor exterior promedio en ºC.
+Dew Pt A: Temperatura de punto de rocío promedio en ºC.
+SL Barom A:  Presión barométrica corregida al nivel del mar promedio en mm.
+
+Variables con sufijo H refieren al acumulado en la última hora.
+Variables con sufijo L refieren al mínimo (a determinar a qué mínimo hace referencia, hístorico o dentro de un intervalo)
+
+DailyRain: Precipitación diaria en mm.
+HourRain: Precipitación horaria en mm.
+24HrRain: Precipitación acumulada en las últimas 24hs en mm.
+RainRate: Tasa de lluvia en mm/hr.
+Wind Run: acumulado de velocidad del viento multiplicado por el tiempo en km.
+Deg Heat: Índice para estimar el estrés térmico acumulado en ºC.
+Deg Cool: Degree Cooling en ºC.
+Moon Phase: Fase lunar
+MonthRain: Precipitación mensual en mm.
+
+Variables con sufijo Mo refieren a valores mensuales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
